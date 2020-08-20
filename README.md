@@ -3,11 +3,13 @@
 
 <p align="center">
 <a href="https://twitter.com/nicolas_goldack">
-<img alt="Twitch Status" src="https://img.shields.io/twitter/follow/nicolas_goldack?color=1DA1F2&logo=Twitter&style=for-the-badge"></a>
+<img alt="Twitter follow" src="https://img.shields.io/twitter/follow/nicolas_goldack?color=1DA1F2&logo=Twitter&style=for-the-badge"></a>
 
-<img alt="Twitch Status" src="https://img.shields.io/website?label=ntec.io&style=for-the-badge&url=https%3A%2F%2Fntec.io">
+<a href="https://discord.gg/gjveZzU">
+<img alt="Discord" src="https://img.shields.io/discord/745954336734969877?color=7289DA&label=DISCORD&logo=Discord&style=for-the-badge"></a>
 
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/ntec_io?color=9146FF&logo=Twitch&style=for-the-badge">
+<a href="https://twitch.tv/ntec-io">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/ntec_io?color=9146FF&logo=Twitch&style=for-the-badge"></a>
 </p>
 
 - 🔭 I’m currently working on **MCServerLauncher**
