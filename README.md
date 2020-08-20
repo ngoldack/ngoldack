@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **EmailSorter**
 
-- 👨‍💻 All of my projects are at ntec-io github account [github.com/ntec-io](github.com/ntec-io)
+- 👨‍💻 All of my projects are at ntec-io github account [github.com/ntec-io](https://github.com/ntec-io)
 
 - 📝 I regulary write articles on my blog [ntec.io](ntec.io)
 
