@@ -16,7 +16,11 @@
 
 - 👯 I’m looking to collaborate on **EmailSorter**
 
+<<<<<<< HEAD
 - 👨‍💻 All of my projects are at ntec-io github account [github.com/ntec-io](http://github.com/ntec-io)
+=======
+- 👨‍💻 All of my projects are at ntec-io github account [github.com/ntec-io](https://github.com/ntec-io)
+>>>>>>> e8c29ae490731dbd478609100e80d64c843118d0
 
 - 📝 I regulary write articles on my blog [ntec.io](ntec.io)
 
