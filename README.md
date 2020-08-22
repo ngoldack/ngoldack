@@ -31,7 +31,7 @@
 
 <details>
   <summary>:zap: Top languages</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoldack&layout=compact" alt="ngoldack" /></p>
+<img align="center" src="https://github-readme-stats-git-master.ngoldack.vercel.app/api/top-langs/?username=ngoldack&layout=compact" alt="ngoldack" /></p>
 </details>
 
 ---
@@ -61,17 +61,12 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//paulvarache/vscode-taskfile/issues/6) in [paulvarache/vscode-taskfile](https://github.com//paulvarache/vscode-taskfile)
-2. ❗️ Closed issue [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
-3. 🗣 Commented on [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
-4. 🗣 Commented on [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
-<!--END_SECTION:activity-->
 
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngoldack&show_icons=true" alt="ngoldack" /></p>
+<img align="center" src="https://github-readme-stats-git-master.ngoldack.vercel.app/api?username=ngoldack&show_icons=true" alt="ngoldack" /></p>
 </details>
 
 <p align="center">
