@@ -31,7 +31,7 @@
 
 <details>
   <summary>:zap: Top languages</summary>
-<img align="center" src="https://github-readme-stats-git-master.ngoldack.vercel.app/api/top-langs/?username=ngoldack&layout=compact" alt="ngoldack" /></p>
+<img align="center" src="https://github-readme-stats-git-master.ngoldack.vercel.app/api/top-langs/?username=ngoldack&hide=css,html&layout=compact" alt="ngoldack" /></p>
 </details>
 
 ---
@@ -72,7 +72,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-<img align="center" src="https://github-readme-stats-git-master.ngoldack.vercel.app/api?username=ngoldack&show_icons=true" alt="ngoldack" /></p>
+<img align="center" src="https://github-readme-stats-git-master.ngoldack.vercel.app/api?username=ngoldack&show_icons=true&include_all_commits=true" alt="ngoldack" /></p>
 </details>
 
 <p align="center">
