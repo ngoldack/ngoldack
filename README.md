@@ -61,9 +61,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//paulvarache/vscode-taskfile/issues/6) in [paulvarache/vscode-taskfile](https://github.com//paulvarache/vscode-taskfile)
-2. ❗️ Closed issue [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
-3. 🗣 Commented on [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
+1. 🗣 Commented on [#1](https://github.com//anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. ❗️ Opened issue [#6](https://github.com//paulvarache/vscode-taskfile/issues/6) in [paulvarache/vscode-taskfile](https://github.com//paulvarache/vscode-taskfile)
+3. ❗️ Closed issue [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
 4. 🗣 Commented on [#264](https://github.com//W4RH4WK/Debloat-Windows-10/issues/264) in [W4RH4WK/Debloat-Windows-10](https://github.com//W4RH4WK/Debloat-Windows-10)
 <!--END_SECTION:activity-->
 
