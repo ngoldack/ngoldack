@@ -51,6 +51,7 @@
 <h3 align="center">📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](https://ntec.io/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ntec.io)
