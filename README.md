@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are at ntec-io github account [github.com/ntec-io](https://github.com/ntec-io)
 
-- 📝 I regulary write articles on my blog [ntec.io](ntec.io)
+- 📝 I regulary write articles on my blog [ntec.io](https://ntec.io)
 
 - 📫 How to reach me **nicolas-goldack@live.de**
 
