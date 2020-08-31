@@ -10,6 +10,7 @@
 
 <a href="https://twitch.tv/ntec-io">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ntec_io?color=9146FF&logo=Twitch&style=for-the-badge"></a>
+<a href="https://www.youtube.com/subscribe_embed?channelid=UCWlzQ62V0vhtH1XkgN4hS2A"><img alt="Youtube Subscribe" src="https://www.youtube.com/subscribe_embed?channelid=UCWlzQ62V0vhtH1XkgN4hS2A"></a>
 </p>
 
 - 🔭 I’m currently working on **MCServerLauncher**
