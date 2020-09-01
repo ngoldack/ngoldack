@@ -10,7 +10,9 @@
 
 <a href="https://twitch.tv/ntec-io">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ntec_io?color=9146FF&logo=Twitch&style=for-the-badge"></a>
-<a href="https://www.youtube.com/subscribe_embed?channelid=UCWlzQ62V0vhtH1XkgN4hS2A"><img alt="Youtube Subscribe" src="https://www.youtube.com/subscribe_embed?channelid=UCWlzQ62V0vhtH1XkgN4hS2A"></a>
+
+<a href="https://www.youtube.com/channel/UCWlzQ62V0vhtH1XkgN4hS2A?sub_confirmation=1">
+<img alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fsubscriber"></a>
 </p>
 
 - 🔭 I’m currently working on **MCServerLauncher**
@@ -82,5 +84,5 @@
 <a href="https://linkedin.com/in/nicolas_goldack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolas_goldack" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/ngoldack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ngoldack" height="30" width="30" /></a>
 <a href="https://instagram.com/ntec-io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ntec-io" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ntec-io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ntec-io" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCWlzQ62V0vhtH1XkgN4hS2A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ntec-io" height="30" width="30" /></a>
 </p>
