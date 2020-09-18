@@ -43,8 +43,6 @@
 
 <!-- YOUTUBE:START -->
 - [Launchbox Tutorial - Premium (BigBox) aktivieren [DEUTSCH]](https://www.youtube.com/watch?v=DvdCdHCfyDM)
-- [Launchbox Tutorial - Spiele/ROMs importieren [DEUTSCH]](https://www.youtube.com/watch?v=vR9-j8qLT6M)
-- [Launchbox Tutorial - Erklärung & Installation [DEUTSCH]](https://www.youtube.com/watch?v=ZYjg4rtYI4w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCWlzQ62V0vhtH1XkgN4hS2A)
