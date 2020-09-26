@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1](https://github.com//anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#5101](https://github.com//badges/shields/issues/5101) in [badges/shields](https://github.com//badges/shields)
-4. 🗣 Commented on [#1](https://github.com//anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. ❗️ Opened issue [#6](https://github.com//paulvarache/vscode-taskfile/issues/6) in [paulvarache/vscode-taskfile](https://github.com//paulvarache/vscode-taskfile)
+1. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🗣 Commented on [#5101](https://github.com/badges/shields/issues/5101) in [badges/shields](https://github.com/badges/shields)
+4. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. ❗️ Opened issue [#6](https://github.com/paulvarache/vscode-taskfile/issues/6) in [paulvarache/vscode-taskfile](https://github.com/paulvarache/vscode-taskfile)
 <!--END_SECTION:activity-->
 
 </details>
