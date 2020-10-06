@@ -12,7 +12,7 @@
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ntec_io?color=9146FF&logo=Twitch&style=for-the-badge"></a>
 
 <a href="https://www.youtube.com/channel/UCWlzQ62V0vhtH1XkgN4hS2A?sub_confirmation=1">
-<img alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fsubscriber"></a>
+<img alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fsubscriber"></a>
 </p>
 
 - 🔭 I’m currently working on **MCServerLauncher**
