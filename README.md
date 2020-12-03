@@ -62,7 +62,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap:My Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
