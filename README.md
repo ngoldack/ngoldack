@@ -65,11 +65,11 @@
   <summary>:zap:My Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/hugo-toha/toha/issues/205) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
-2. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#5101](https://github.com/badges/shields/issues/5101) in [badges/shields](https://github.com/badges/shields)
-4. 🗣 Commented on [#1](https://github.com/anuraghazra/github-readme-stats/issues/1) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. ❗️ Opened issue [#6](https://github.com/paulvarache/vscode-taskfile/issues/6) in [paulvarache/vscode-taskfile](https://github.com/paulvarache/vscode-taskfile)
+1. 🎉 Merged PR [#72](https://github.com/ngoldack/hausbau/pull/72) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+2. 🎉 Merged PR [#71](https://github.com/ngoldack/hausbau/pull/71) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+3. 🎉 Merged PR [#70](https://github.com/ngoldack/hausbau/pull/70) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+4. 💪 Opened PR [#70](https://github.com/ngoldack/hausbau/pull/70) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+5. 🎉 Merged PR [#69](https://github.com/ngoldack/hausbau/pull/69) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
 <!--END_SECTION:activity-->
 
 </details>
