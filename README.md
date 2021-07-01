@@ -65,11 +65,11 @@
   <summary>:zap:My Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/ngoldack/hausbau/pull/72) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
-2. 🎉 Merged PR [#71](https://github.com/ngoldack/hausbau/pull/71) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
-3. 🎉 Merged PR [#70](https://github.com/ngoldack/hausbau/pull/70) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
-4. 💪 Opened PR [#70](https://github.com/ngoldack/hausbau/pull/70) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
-5. 🎉 Merged PR [#69](https://github.com/ngoldack/hausbau/pull/69) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+1. 💪 Opened PR [#148](https://github.com/ngoldack/hausbau/pull/148) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+2. 🎉 Merged PR [#147](https://github.com/ngoldack/hausbau/pull/147) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+3. 💪 Opened PR [#146](https://github.com/ngoldack/hausbau/pull/146) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+4. 🎉 Merged PR [#145](https://github.com/ngoldack/hausbau/pull/145) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
+5. 💪 Opened PR [#145](https://github.com/ngoldack/hausbau/pull/145) in [ngoldack/hausbau](https://github.com/ngoldack/hausbau)
 <!--END_SECTION:activity-->
 
 </details>
